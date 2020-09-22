@@ -1,0 +1,25 @@
+{
+  "name": "esquina-del-sabor",
+  "version": "1.0.0",
+  "description": "Proyecto personal de promocion de una pagina de comida tipica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonyQG/Esquina-del-sabor.git"
+  },
+  "author": "Antony Quintero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonyQG/Esquina-del-sabor/issues"
+  },
+  "homepage": "https://github.com/AntonyQG/Esquina-del-sabor#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  }
+}
